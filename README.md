@@ -49,7 +49,7 @@ detox test -c ios.sim.debug
 
 案例
 
-![image-20200509163612277](/Users/maxlxq/github/detox/asset/image/image-20200509163612277.png)
+![image-20200509163612277](./asset/image/image-20200509163612277.png)
 
 
 
