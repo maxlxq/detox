@@ -69,6 +69,17 @@ appium-doctor
 
 填写好`Bundle Identifier`：为你要测试的APP的Bundle ID，具体问开发要，不同APP对应不同ID
 
+```json
+{
+  QA: com.pier88health.app.qa,
+  Dev: com.pier88health.app.dev,
+  Stg: com.pier88health.app.staging,
+  Prod: com.pier88health.app,
+}
+```
+
+
+
 选择自己的Team或者个人开发者账号，然后点击最上面`Automatically manage signing`，等待一会即可
 
 ![SignAgentRunner_one](./asset/image/image-20200515150319760.png)
